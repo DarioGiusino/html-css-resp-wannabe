@@ -128,8 +128,8 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- /* tablet dai 768px */
-@media screen and (max-width: 768px){
+ /* tablet dai 768px comprensivo di bonus */
+@media screen and (max-width: 1160px){
     .container{
         max-width: 100vw;
     }
@@ -179,7 +179,5 @@ img {
 
     .col .card img{
         height: 250px;
-    }
-
-    
+    } 
  }
